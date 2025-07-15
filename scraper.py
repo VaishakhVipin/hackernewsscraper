@@ -14,4 +14,4 @@ with open('titles.txt', 'w', encoding='utf-8') as file:
 
 os.startfile('titles.txt')  # This will open the file in the default text editor on Windows
 
-print("Titles saved to titles.txt")
+print("Titles saved to titles.txt! Star on github if you liked it!")
